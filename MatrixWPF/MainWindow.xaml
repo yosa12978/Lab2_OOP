@@ -1,0 +1,49 @@
+﻿<Window x:Class="MatrixWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MatrixWPF"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="447" Width="846">
+    <Grid>
+        <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto" Margin="25,10,592,182">
+            <Grid x:Name="Grid1" Margin="36,12,615,213" Width="195" ShowGridLines="True" Height="207"/>
+        </ScrollViewer>
+        <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto" Margin="261,10,343,182">
+            <Grid x:Name="Grid2" Margin="259,11,392,212" Width="195" ShowGridLines="True" HorizontalAlignment="Left" VerticalAlignment="Top" Height="207.04"/>
+        </ScrollViewer>
+        <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto" Margin="524,10,81,181">
+            <Grid x:Name="Grid3" Margin="503,11,148,212" Width="195" ShowGridLines="True" HorizontalAlignment="Left" VerticalAlignment="Top" Height="207.04"/>
+        </ScrollViewer>
+        <Button x:Name="MultiplyBtn" Content="Multiply" HorizontalAlignment="Left" Margin="30,363,0,0" VerticalAlignment="Top" Width="226" Click="MultiplyBtn_Click"/>
+        <ComboBox x:Name="Mat1Cols" HorizontalAlignment="Left" Margin="136,280,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="CB_SelectionChanged" SelectedIndex="2">
+            <sys:Int32>1</sys:Int32>
+            <sys:Int32>2</sys:Int32>
+            <sys:Int32>3</sys:Int32>
+            <sys:Int32>4</sys:Int32>
+            <sys:Int32>5</sys:Int32>
+        </ComboBox>
+        <ComboBox x:Name="Mat1Rows" HorizontalAlignment="Left" Margin="136,307,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="CB_SelectionChanged" SelectedIndex="2">
+            <sys:Int32>1</sys:Int32>
+            <sys:Int32>2</sys:Int32>
+            <sys:Int32>3</sys:Int32>
+            <sys:Int32>4</sys:Int32>
+            <sys:Int32>5</sys:Int32>
+        </ComboBox>
+        <ComboBox x:Name="Mat2Cols" HorizontalAlignment="Left" Margin="136,334,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="CB_SelectionChanged" SelectedIndex="2">
+            <sys:Int32>1</sys:Int32>
+            <sys:Int32>2</sys:Int32>
+            <sys:Int32>3</sys:Int32>
+            <sys:Int32>4</sys:Int32>
+            <sys:Int32>5</sys:Int32>
+        </ComboBox>
+        <Label Content="Matrix 2" HorizontalAlignment="Left" Margin="261,254,0,0" VerticalAlignment="Top"/>
+        <Label Content="Result" HorizontalAlignment="Left" Margin="524,255,0,0" VerticalAlignment="Top"/>
+        <Label Content="Matrix 1" HorizontalAlignment="Left" Margin="30,254,0,0" VerticalAlignment="Top"/>
+        <Label Content="Matrix 1 Columns" HorizontalAlignment="Left" Margin="25,280,0,0" VerticalAlignment="Top" Width="107"/>
+        <Label Content="Matrix 1 Rows" HorizontalAlignment="Left" Margin="24,305,0,0" VerticalAlignment="Top" Width="107"/>
+        <Label Content="Matrix 2 Columns" HorizontalAlignment="Left" Margin="24,332,0,0" VerticalAlignment="Top" Width="107"/>
+    </Grid>
+</Window>

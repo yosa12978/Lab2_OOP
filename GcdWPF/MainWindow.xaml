@@ -1,0 +1,17 @@
+﻿<Window x:Class="GcdWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GcdWPF"
+        mc:Ignorable="d"
+        Title="GCD Finder" Height="143" Width="459">
+    <Grid>
+        <TextBox x:Name="inpText" HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="&#xD;&#xA;" VerticalAlignment="Top" Width="351" Height="19"/>
+        <Button x:Name="CalculateButton" Content="Calculate" HorizontalAlignment="Left" Margin="366,10,0,0" VerticalAlignment="Top" Click="CalculateButton_Click" Height="19"/>
+        <Label x:Name="EuclidLabel" Content="Euclid: 1" HorizontalAlignment="Left" Margin="10,34,0,0" VerticalAlignment="Top" Width="200"/>
+        <Label x:Name="ShteinLabel" Content="Shtein: 1" HorizontalAlignment="Left" Margin="10,65,0,0" VerticalAlignment="Top" Width="200"/>
+        <Label x:Name="EuclidTimeLabel" Content="Time Spent: 0" HorizontalAlignment="Left" Margin="215,34,0,0" VerticalAlignment="Top" Width="203"/>
+        <Label x:Name="ShteinTimeLabel" Content="Time Spent: 0" HorizontalAlignment="Left" Margin="215,65,0,0" VerticalAlignment="Top" Width="203"/>
+    </Grid>
+</Window>

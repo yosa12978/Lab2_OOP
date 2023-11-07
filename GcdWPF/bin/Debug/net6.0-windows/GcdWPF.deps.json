@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GcdWPF/1.0.0": {
+        "dependencies": {
+          "GcdLib": "1.0.0"
+        },
+        "runtime": {
+          "GcdWPF.dll": {}
+        }
+      },
+      "GcdLib/1.0.0": {
+        "runtime": {
+          "GcdLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GcdWPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GcdLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

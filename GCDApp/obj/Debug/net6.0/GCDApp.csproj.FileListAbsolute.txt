@@ -1,0 +1,15 @@
+D:\Programs\University\oop\GCDApp\GCDApp\bin\Debug\net6.0\GCDApp.exe
+D:\Programs\University\oop\GCDApp\GCDApp\bin\Debug\net6.0\GCDApp.deps.json
+D:\Programs\University\oop\GCDApp\GCDApp\bin\Debug\net6.0\GCDApp.runtimeconfig.json
+D:\Programs\University\oop\GCDApp\GCDApp\bin\Debug\net6.0\GCDApp.dll
+D:\Programs\University\oop\GCDApp\GCDApp\bin\Debug\net6.0\GCDApp.pdb
+D:\Programs\University\oop\GCDApp\GCDApp\obj\Debug\net6.0\GCDApp.csproj.AssemblyReference.cache
+D:\Programs\University\oop\GCDApp\GCDApp\obj\Debug\net6.0\GCDApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\University\oop\GCDApp\GCDApp\obj\Debug\net6.0\GCDApp.AssemblyInfoInputs.cache
+D:\Programs\University\oop\GCDApp\GCDApp\obj\Debug\net6.0\GCDApp.AssemblyInfo.cs
+D:\Programs\University\oop\GCDApp\GCDApp\obj\Debug\net6.0\GCDApp.csproj.CoreCompileInputs.cache
+D:\Programs\University\oop\GCDApp\GCDApp\obj\Debug\net6.0\GCDApp.dll
+D:\Programs\University\oop\GCDApp\GCDApp\obj\Debug\net6.0\refint\GCDApp.dll
+D:\Programs\University\oop\GCDApp\GCDApp\obj\Debug\net6.0\GCDApp.pdb
+D:\Programs\University\oop\GCDApp\GCDApp\obj\Debug\net6.0\GCDApp.genruntimeconfig.cache
+D:\Programs\University\oop\GCDApp\GCDApp\obj\Debug\net6.0\ref\GCDApp.dll

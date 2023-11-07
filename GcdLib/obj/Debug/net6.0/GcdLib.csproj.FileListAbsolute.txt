@@ -1,0 +1,12 @@
+D:\Programs\University\oop\GCDApp\GcdLib\bin\Debug\net6.0\GcdLib.deps.json
+D:\Programs\University\oop\GCDApp\GcdLib\bin\Debug\net6.0\GcdLib.dll
+D:\Programs\University\oop\GCDApp\GcdLib\bin\Debug\net6.0\GcdLib.pdb
+D:\Programs\University\oop\GCDApp\GcdLib\obj\Debug\net6.0\GcdLib.csproj.AssemblyReference.cache
+D:\Programs\University\oop\GCDApp\GcdLib\obj\Debug\net6.0\GcdLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\University\oop\GCDApp\GcdLib\obj\Debug\net6.0\GcdLib.AssemblyInfoInputs.cache
+D:\Programs\University\oop\GCDApp\GcdLib\obj\Debug\net6.0\GcdLib.AssemblyInfo.cs
+D:\Programs\University\oop\GCDApp\GcdLib\obj\Debug\net6.0\GcdLib.csproj.CoreCompileInputs.cache
+D:\Programs\University\oop\GCDApp\GcdLib\obj\Debug\net6.0\GcdLib.dll
+D:\Programs\University\oop\GCDApp\GcdLib\obj\Debug\net6.0\refint\GcdLib.dll
+D:\Programs\University\oop\GCDApp\GcdLib\obj\Debug\net6.0\GcdLib.pdb
+D:\Programs\University\oop\GCDApp\GcdLib\obj\Debug\net6.0\ref\GcdLib.dll
